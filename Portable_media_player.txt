@@ -1,0 +1,582 @@
+
+
+
+Portable media player
+
+A portable media player (PMP) or digital audio player (DAP) is a portable consumer electronics device capable of storing and playing digital
+media such as audio, images, and video files.[1][2] Normally they refer
+to small, battery-powered devices utilising flash memory or a hard disk for storing various media files.[3][4] MP3 players has been a popular
+alternative name used for such devices, even if they also support other file formats and media types other than MP3 (for example AAC, FLAC, WMA).[5][6]
+Generally speaking, PMPs are equipped with a 3.5 mm headphone jack which can be used for headphones or to connect to a boombox, home audio system, or connect to car audio and home stereos wired or via a wireless connection such as Bluetooth, and some may include radio tuners, voice recording and other features. In contrast,  analogue  portable  audio
+players play music from non-digital media that use analogue media, such as cassette tapes or vinyl records. As devices became more advanced, the PMP term was later introduced to describe players with additional capabilities such as video playback (they used to also be called "MP4 players"). The PMP term has also been used as an umbrella name to describe any portable device for multimedia, including
+physical formats (such as portable CD players) or handheld game consoles with such capabilities.[7][8]
+
+DAPs appeared in the late 1990s, following the creation of the MP3 codec in Germany. MP3-playing devices were mostly pioneered by South Korean startups, who by 2002 would control the majority of global sales.[9] However the industry would eventually be defined by the popular Apple iPod.[10] In 2006, 20% of Americans owned a PMP, a figure strongly driven by the young; more than half (54%) of American teens owned one, as did 30% of young adults aged 18 to 34.[11] In 2007, 210 million PMPs were sold worldwide, worth US$19.5 billion.[12] In 2008, video-enabled players would overtake audio- only players.[13] Increasing sales of smartphones and tablet computers have led to a decline in sales of
+
+PMPs,[14][15] leading to most manufacturers having exited the industry during the 2010s. Sony Walkman continues to be in production and portable DVD and BD players, which may be considered variations of PMPs, are still manufactured.[16]
+
+
+Types
+
+The term portable media player (PMP) generally refers to (but not limited to) playback of digital audio files rather than directly on tape or disc.
+
+
+Flash memory
+As of 2025, PMPs tend to store such files on internal flash memory or removable flash memory cards, both of which are (along with USB flash drives) non- mechanical solid state devices. Due to technological advances in flash memory, these originally low- capacity storage devices are now available commercially, ranging up to high storage capacities. Because they are solid state and do not have moving parts, they require less battery power, will not skip during playback, and may be more resilient to hazards such as mechanical shock or fragmentation than hard disk drive-based players.
+
+
+
+
+A flash-based player (Creative MuVo)
+
+
+
+Hard drive
+
+
+
+As recently as 2010, hard disk drive based players were common. At the time, these players had capacities ranging up to 500 GB.[17] At typical encoding rates, this means that tens of thousands of songs can be stored on one player. The disadvantages with these units is that a hard drive consumes more power, is larger and heavier and is inherently more fragile than solid- state storage.
+
+
+
+
+
+
+
+
+
+
+An embedded hard drive- based player (Creative ZEN Vision:M)
+
+Other types
+Portable CD players that can decode and play MP3 audio files stored on CDROMs (MP3 CDs) are also effectively MP3 players. When the first units of these were released, such players were typically a less expensive alternative than either the hard drive or flash-based players. The blank CD-R
+
+
+
+
+An MP3 CD player (Philips
+
+media they use is inexpensive. These devices have the feature of being able to play standard audio CDs. Since a CD can typically hold
+
+Expanium)
+
+only around 700 megabytes of data, a large library will typically require multiple discs. However, some higher-end units are also capable of reading and playing back files stored on larger-capacity DVD; some also have the ability to play video content, such as movies.
+Players that connect via (Wi-Fi) network to receive and play audio can also be considered PMPs.[18] These units typically do not have significant local storage and must rely on a server, typically a personal computer also on the same network, to provide the audio files for playback. Smartphones can also be considered PMPs as they have most of the media functions of a typical PMP.
+
+
+Operation
+
+
+
+Digital sampling is used to convert an audio wave to a sequence of binary numbers that can be stored in a digital format, such as MP3. Common features of all MP3 players are a memory storage device, such as flash memory or a miniature hard disk drive, an embedded processor, and an audio codec microchip to convert the compressed file into an analogue sound signal. During playback, audio files are read from storage into a RAM based memory buffer, and then streamed through an audio codec to produce decoded PCM audio. Typically audio formats decode at double to more than 20 times real speed on portable electronic processors,[19] requiring that the codec output be stored for a time until the DAC can play it. To save power, portable devices may
+
+
+
+A Sansa Clip player with a clip to attach on a person's clothing
+
+spend much or nearly all of their time in a low power idle state while waiting for the DAC to deplete the output PCM buffer before briefly powering up to decode additional audio.
+
+Most DAPs are powered by rechargeable batteries, some of which are not user-replaceable. They have a
+3.5 mm stereo jack; music can be listened to with earbuds or headphones, or played via an external amplifier and speakers. Some devices also contain internal speakers, through which music can be listened to, although these built-in speakers are typically of very low quality.
+
+
+Display and interface
+
+An iPod Shuffle DAP, featuring no display screen
+
+
+
+Nearly all DAPs consists of some kind of display screen, although there are exceptions, such as the iPod Shuffle, and a set of controls with which the user can browse through the library of music contained in the device, select a track, and play it back. The display, if the unit even has one, can be anything from a simple one or two line monochrome LCD display, similar to what are found on typical pocket calculators, to large, high-resolution, full- color displays capable of displaying photographs or viewing video content on. The controls can range anywhere from the simple buttons as are found on most typical CD players, such as for skipping through tracks or stopping/starting playback to full touch-screen controls, such as that found on the iPod Touch or the
+
+Zune HD. One of the more common methods of control is some type of the scroll wheel with associated buttons. This method of control was first introduced with the Apple iPod and many other manufacturers have created variants of this control scheme for their respective devices.
+A standard PMP uses a 5-way D-pad to navigate. Many alternatives have been used, most notably the wheel and touch mechanisms seen on players from the iPod and Sansa series. Another popular mechanism is the swipe-pad, or 'squircle', first seen on the Zune. Additional buttons are commonly seen for features such as volume control.
+
+
+Syncing and software
+Content is placed on DAPs typically through a process called "syncing", by connecting the device to a personal computer, typically via USB, and running any special software that is often provided with the DAP on a CD-ROM included with the device, or downloaded from the manufacturer's website. Some devices simply appear as an additional disk drive on the host computer, to which music files are simply copied like any other type of file. Other devices, most notably the Apple iPod or Microsoft Zune, requires the use of special management software, such as iTunes or Zune Software, respectively. Over the years, increasingly the players were natively recognised by the operating system through Universal Mass Storage (UMS) or Media Transfer Protocol (MTP).
+
+The music, or other content such as TV episodes or movies, is added to the software to create a "library". The library is then "synced" to the DAP via the software. The software typically provides options for managing situations when the library is too large to fit on the device being synced to. Such options include allowing manual syncing, in that the user can manually "drag-n- drop" the desired tracks to the device, or allow for the creation of playlists. In addition to the USB connection, some of the more advanced units are now starting to allow syncing through a
+wireless connection, such as via Wi-Fi or Bluetooth.[20]
+
+Content can also be obtained and placed on some DAPs, such as the iPod Touch or Zune HD by allowing access to a "store" or "marketplace",	most	notably	the	iTunes	Store	or	Zune Marketplace, from which content, such as music and video, and even games, can be purchased and downloaded directly to the device.
+
+
+
+
+Connecting a computer to a Sansa Clip DAP to transfer content by "syncing"
+
+
+An early DAP (NETrax, from 1999) in its dedicated docking station for charging and connecting to a PC
+
+
+
+Typical features
+
+PMPs are capable of playing digital audio, images, and/or video. Usually, a colour liquid crystal display (LCD) or organic light-emitting diode (OLED) screen is used as a display for PMPs that have a screen. Various players include the ability to record video, usually with the aid of optional accessories or cables,
+
+and audio, with a built-in microphone or from a line out cable or FM tuner. Some players include readers for memory cards (such as CompactFlash (CF), Secure Digital (SD), and Memory Sticks), which are advertised to equip players with extra storage or transferring media. In some players, features of a personal organiser are emulated, or support for video games, like the iRiver Clix (through compatibility of Adobe Flash Lite) or the PlayStation Portable, is included. Only mid-range to high-end players support "savestating" for power-off (i.e. leaves off song/video in progress similar to tape-based media).
+
+
+Audio playback
+Nearly all players[21] are compatible with the MP3 audio format, and many others support Windows Media Audio (WMA), Advanced Audio Coding (AAC) and WAV. Some players are compatible with open-source formats like Ogg Vorbis and the Free Lossless Audio Codec (FLAC). Audio files purchased from online stores may include digital rights management (DRM) copy protection, which many modern players support.
+
+Image viewing
+The JPEG format is widely supported by players. Some players, like the iPod series, provide compatibility to display additional file formats like GIF, PNG, and TIFF, while others are bundled with conversion software.
+
+
+
+
+Sony Walkman NW-A1000, one of the earliest Walkman players that played MP3 alongside the proprietary ATRAC format
+
+
+Video playback
+Most newer players support the MPEG-4 Part 2 video format, and many other players are compatible with Windows Media Video (WMV) and AVI. Software included with the players may be able to convert video files into a compatible format.
+
+
+
+
+
+
+
+
+Toshiba Gigabeat running Portable Media Center, allowing
+
+Recording
+Many players have a built-in electret microphone which allows recording. Usually recording quality is poor, suitable for speech but not music. There are also professional- quality recorders suitable for high-quality music recording with external microphones, at prices starting at a few hundred dollars.
+
+video playback	An iRiver iFP-190 player, with a
+
+The recording capability means that these players can encode directly to MP3 or other
+digital audio formats directly from a line-level audio signal.
+
+built-in microphone for voice recording
+
+Radio
+Some DAPs have FM radio tuners built in. Many also have an option to change the band from the usual
+87.5 - 108.0 MHz to the Japanese band of 76.0 - 90.0 MHz. DAPs typically never have an AM band, or even HD Radio since such features would be either cost-prohibitive for the application, or because of AM's sensitivity to interference.
+
+Internet access
+Newer portable media players are now coming with Internet access via Wi-Fi. Examples of such devices are Android OS devices by various manufacturers, and iOS devices on Apple products like the iPhone, iPod Touch, and iPad. Internet access has even enabled people to use the Internet as an underlying communications layer for their choice of music for automated music randomisation services like Pandora, to on-demand video access (which also has music available) such as YouTube. This technology has enabled casual and hobbyist DJs to cue their tracks from a smaller package from an Internet connection, sometimes they will use two identical devices on a crossfade mixer. Many such devices also tend to be smartphones.
+
+Last position memory
+Many mobile digital media players have last position memory, in which when it is powered off, a user does not have to worry about starting at the first track again, or even hearing repeats of others songs when a playlist, album, or whole library is cued for shuffle play, in which shuffle play is a common feature, too. Early playback devices to even remotely have "last position memory" that predated solid-state digital media playback devices were tape-based media, except this kind suffered from having to be "rewound", whereas disc-based media suffered from no native "last position memory", unless disc-players had their own last position memory. However, some models of solid-state flash memory (or hard drive ones with some moving parts) are somewhat the "best of both worlds" in the market.
+
+Miscellaneous
+Media players' firmware may be equipped with a basic file manager and a text reader.[22] Some portable media players have recently added features such as simple camera, built-in game emulation (playing Nintendo Entertainment System or other game formats from ROM images) and simple text readers and editors. Newer PMPs have been able to tell time, and even automatically adjust time according to radio reception, and some devices like the 6th-gen iPod Nano even have wristwatch bands available.
+
+Modern MP4 players can play video in a multitude of video formats without the need to pre-convert them or downsize them prior to playing them. Some MP4 Players possess USB ports, to allow users to connect it to a personal computer to sideload files. Some models also have memory card slots to expand the memory of the player instead of storing files in the built-in memory.
+
+Hardware
+
+
+
+The iRiver SPINN portable media player features Samsung storage and a Telechips processor. It also features both a touchscreen and a click-wheel mechanism for navigation. The SPINN implements haptic feedback by vibrating with user input. Additional hardware capabilities enable it to decode the MPEG-4 Part 2 format and play back audio using SRS WOW.
+
+
+
+PMPs may come in different form factors such as portrait styled, landscape styled, or keydrive type. Modular MP3 keydrive players are composed of two detachable parts: the head (or reader/writer) and the body (the memory). They can be independently obtained and upgradable (one can change the head or the body; i.e. to add more memory).Display sizes range all the way up to 7 inches (18 cm). Most screens come with a colour depth of 16-bit, but higher quality video-oriented devices may range all the way to 24- bit, otherwise known as true colour, with the ability to display
+16.7 million distinct colours. Screens commonly have a matte
+
+
+
+Interior of a small unbranded flash- based DAP
+
+finish but may also come in glossy to increase colour intensity and contrast. More and more devices are now also coming with touch screen as a form of primary or alternate input. This can be for convenience and/or aesthetic purposes. Certain devices, on the other hand, have no screen whatsoever, reducing costs at the expense of ease of browsing through the media library.
+
+
+History
+
+Today, every smartphone also serves as a portable media player; however, prior to the rise of smartphones in the 2007-2012 time frame, a variety of handheld players were available to store and play music. The immediate predecessor to the portable media player was the portable CD player and prior to that, the personal stereo. In particular, Sony's Walkman and Discman are the ancestors of digital audio players such as the Apple iPod.[23]
+There are several types of MP3 players:
+
+Devices that play CDs. Often, they can be used to play both audio CDs and homemade data CDs containing MP3 or other digital audio files.
+Pocket devices. These are solid-state devices that hold digital audio files on internal or external media, such as memory cards. These are generally low-storage devices, typically
+
+ranging from 128MB to 1GB, which can often be extended with additional memory. As they are solid state and do not have moving parts, they can be very resilient. Such players may be integrated into USB flash drives.
+Devices that read digital audio files from a hard drive. These players have higher capacities, ranging from 1.5 to 100 GB, depending on the hard drive technology. At typical encoding rates, this means that thousands of songs-perhaps an entire music collection-can be stored in one MP3 player. Apple's popular iPod player is the best-known example.
+
+
+Early digital audio players
+British scientist Kane Kramer invented the first digital audio player,[24] which he called the IXI.[25] His 1979 prototypes were capable of up to one hour of audio playback but did not enter commercial production. His UK patent application was not filed until 1981 and was issued in 1985 in the UK and
+1987 in the US.[26] However, in 1988 Kramer's failure to raise the £60,000 required to renew the patent
+meant it entered the public domain.[27] Apple Inc. hired Kramer as a consultant and presented his work as an example of prior art in the field of digital audio players during their litigation with Burst.com almost two decades later.[28] In 2008, Apple acknowledged Kramer as the inventor of the digital audio player[24][29]
+The Listen Up Player was released in 1996 by Audio Highway, an American company led by Nathan Schulhof. It could store up to an hour of music, but despite getting an award at CES 1997
+only 25 of the devices were made.[30][31] That same
+year AT&T developed the FlashPAC digital audio player which initially used AT&T's Perceptual Audio Coder (PAC)[32] for music compression, but in 1997 switched to AAC.[33] At about the same
+time AT&T also developed an internal Web-based music streaming service that had the ability to download music to FlashPAC.[34] AAC and such music downloading services later formed the foundation for the Apple iPod and iTunes.[35]
+The first production-volume portable digital audio player was The Audible Player (also known as MobilePlayer, or Digital Words To Go) from Audible.com available for sale at the end of 1997, for $199. It only supported playback of digital audio in Audible's proprietary, low-bitrate format which was developed for spoken word recordings. Capacity was limited to 4 MB of internal flash memory, or about 2 hours of play, using a custom rechargeable battery pack. The unit had no display and rudimentary controls.[36][37]
+
+The MP3 standard
+MP3 was introduced as an audio coding standard in 1992.[38] It was based on several audio data compression techniques, including the modified discrete cosine transform (MDCT), FFT and psychoacoustic methods.[39] MP3 became a popular standard format and as a result most digital audio
+players after this supported it and hence were often called MP3 players.
+
+While popularly being called MP3 players at the time, most players could play more than just the MP3 file format. Players also sometimes supported Windows Media Audio (WMA), Advanced Audio Coding (AAC), Vorbis, FLAC, Speex and Ogg.
+
+First portable MP3 player
+The first portable MP3 player was launched in 1997 by SaeHan Information Systems,[40] which sold its MPMan F10 player in South Korea in spring 1998.[41][42] In mid-1998, the South Korean company licensed the players for North American distribution to Eiger Labs, which rebranded them as the EigerMan F10 and F20.[43] The flash-based players were available in 32 MB or 64 MB (6 or 12 songs)
+storage capacity and had a LCD screen to tell the user the song currently playing.
+
+The first car audio hard drive-based MP3 player was also released in 1997 by MP32Go and was called the MP32Go Player. It consisted of a 3 GB IBM 2.5" hard drive that was housed in a trunk-mounted enclosure connected to the car's radio system. It retailed for $599 and was a commercial failure.[44]
+The Rio PMP300 from Diamond Multimedia was introduced in September 1998, a few months after the MPMan, and also featured a 32 MB storage capacity. It was a success during the holiday season, with sales exceeding expectations.[45] Interest and investment in digital music were subsequently spurred from it.[46]
+The RIAA soon filed a lawsuit alleging that the device abetted illegal copying of music, but Diamond won a legal victory on the shoulders of Sony Corp. of America v. Universal City Studios, Inc. and MP3 players were ruled legal devices. Because of the player's
+notoriety  as  the  target  of  a  major  lawsuit,[47]  the  Rio  is
+erroneously assumed to be the first digital audio player.[48]
+
+
+
+
+
+Rio PMP300, one of the earliest marketed DAPs, which plays music in the MP3 format.
+
+of MP3 players.
+
+Eiger Labs and Diamond went on to establish a new segment in the portable audio player market and the following year saw several new manufacturers enter this market. The PMP300 would be the start of the Rio line of players. Noticeably, major technology companies did not catch on with the new technology, and instead young startups would come to dominate the early era
+
+
+
+Other early MP3 portables
+Other early MP3 portables included the Creative Labs Nomad and the RCA Lyra. These portables were small and light, but had only enough memory to hold around 7 to 20 songs at normal 128 kbit/s compression rates. They also used slower parallel port connections to transfer files from PC to player, necessary as most PCs then used the Windows 95 and NT operating systems, which did not have native support for USB connections.
+
+Emergence of hard-drive-based players
+In 1999 the first hard drive based DAP using a 2.5" laptop drive, the Personal Jukebox (PJB-100) designed by Compaq and released by Hango Electronics Co with 4.8 GB storage, which held about 1,200 songs, and pioneered what would be called the jukebox segment of digital music portables.[49] This
+segment eventually became the dominant type of digital music player.
+
+Also at the end of 1999 the first in-dash MP3 player appeared. The Empeg Car[a] offered players in several capacities ranging from 5 to 28 GB. The unit did not catch on and was discontinued in the fall of 2001.
+
+
+Rise of South Korean companies
+For the next couple of years, there were offerings from South Korean companies, namely the startups iRiver (brand of Reigncom), Mpio (brand of DigitalWay) and Cowon. At its peak, these Korean makers held as
+much as 40% world market share in MP3 players.[50] These manufacturers
+however lost their way after 2004 as they failed to compete with new iPods. By 2006 they were also overtaken by the South Korean giant Samsung Electronics.[51]
+
+Sony's entry in the market
+Sony entered the digital audio player market in 1999 with the Vaio Music Clip and Memory Stick Walkman,[52] however they were technically not MP3 players as it did not support the MP3 format but instead Sony's own ATRAC format and WMA. The company's first MP3-supporting Walkman player did not come until 2004.[53] Over the years, various hard-drive-
+based and flash-based DAPs and PMPs have been released under the Walkman range.
+
+
+
+The third generation iPod, which stores audio files on a miniature hard disk drive.
+
+
+Samsung's YEPP line and Creative's NOMAD Jukebox
+The Samsung YEPP line was first released in 1999 with the aim of making the smallest music players on the market.[54] In 2000, Creative released the 6 GB hard-drive-based Creative NOMAD Jukebox. The
+name borrowed the jukebox metaphor popularised by Remote Solution, also used by Archos. Later players in the Creative NOMAD range used microdrives rather than laptop drives. In October 2000, South Korean software company Cowon Systems released their first MP3 player, the CW100, under the brand name iAUDIO. In December 2000, some months after the Creative's NOMAD Jukebox, Archos
+released its Jukebox 6000 with a 6 GB hard drive. Philips also released a player called the Rush.[55]
+
+
+Growth of market
+On 23 October 2001, Apple unveiled the first generation iPod, a 5 GB hard drive based DAP with a 1.8" hard drive and a 2" monochrome display. With the development of a spartan user interface and a smaller form factor, the iPod was initially popular within the Macintosh community. In July 2002, Apple
+
+introduced the second generation update to the iPod, which was compatible with Windows computers through Musicmatch Jukebox. iPods quickly became the most popular DAP product and led the fast growth of this market during the early and mid 2000s.
+In 2002, Archos released the first PMP, the Archos Jukebox Multimedia[56] with a little 1.5" colour screen. The next year, Archos released another multimedia jukebox, the AV300, with a
+3.8" screen and a 20 GB hard drive. In the same year, Toshiba released the first Gigabeat. In 2003, Dell launched a line of portable  digital  music  players  called  Dell  DJ.  They  were
+discontinued by 2006.[57]
+
+
+
+
+
+
+
+
+
+
+
+The Archos Jukebox 6000 released late 2001 was a DAP with a hard disk, one of the earliest of its kind.
+
+The name MP4 player was a marketing term for inexpensive portable media players, usually from little-known or generic device manufacturers.[58] The name itself is a misnomer, since most MP4 players through 2007 were incompatible with the MPEG-4 Part 14 or the .mp4 container format. Instead, the term refers to their ability to play more file types than just MP3. In this sense, in some markets like Brazil, any new function added to a given media player is followed by an increase in the number, for
+example an MP5 or MP12 Player,[59] despite there being no such
+corresponding MPEG standards.
+
+
+                               iRiver of South Korea originally made portable CD players and then started making digital audio players and portable media players in 2002. Creative also introduced the ZEN line. Both of these attained high popularity in some regions.
+In 2004, Microsoft attempted to take advantage of the growing PMP market by launching the Portable Media Center (PMC) platform. It was introduced at the 2004 Consumer Electronics Show with the announcement of the Zen Portable Media Center,[60] which was co-developed by Creative. The Microsoft Zune series would later be based on the Gigabeat S, one of the PMC-implemented players.
+
+In May 2005, flash memory maker SanDisk entered the PMP market with the Sansa line of players, starting with the e100 series, and then following up with the m200 series, and c100 series.
+
+
+Inexpensive generic MP3 players also became popular during the mid 2000s. Many of these were based on the S1 MP3 player and included knock-offs of official brands.
+In 2007, Apple introduced the iPod Touch, the first iPod with a multi- touch screen. Some similar products existed before such as the iRiver Clix in 2006. In South Korea, sales of MP3 players peaked in 2006, but started declining afterwards. This was driven partly by the launch of mobile television services (DMB), which along with increased
+
+
+
+
+
+
+Rockbox was developed as a popular free and open source firmware for various PMPs
+
+demand of movies on the go led to a transition away from music-only players to PMPs.[61] By 2008,
+more video-enabled PMPs were sold than audio-only players.[13]
+
+Brands and popularity throughout the world
+By the mid-2000s and the years after, Apple with its iPod was the best-selling DAP or PMP by a significant margin, with one out of four sold worldwide being an iPod. It was especially dominant in the United States where it had over 70% of sales at different points in time,[12] is nearest competitor in 2006 being SanDisk.[62] Apple also led in Japan over homegrown makers Sony and Panasonic during this time,[62] although the gap between Apple and Sony had closed by about 2010.[63] In South Korea, the
+market was led by local brands iRiver, Samsung and Cowon as of 2005.[64]
+European buying patterns differed; while Apple was in a particularly strong position in the United Kingdom, continental Western Europe generally preferred cheaper, often Chinese rebranded players under local brands such as Grundig.[12] Meanwhile, in Eastern Europe including Russia, higher priced players with improved design or functionality were preferred instead. In South Korea makers like iRiver and Samsung were particularly popular, as well as such OEM models under local brands. Creative was the top-selling maker in its home country of Singapore. In China, local brands Newman, DEC and Aigo
+were noted as the top vendors as of 2006.[62]
+
+
+
+Other categories
+The Samsung SPH-M2100, the first mobile phone with built-in MP3 player was produced in South Korea in August 1999.[65][66] The Samsung SPH-M100 (UpRoar) launched in 2000 was the first
+mobile phone to have MP3 music capabilities[67] in the US
+market. The innovation spread rapidly and by 2005, more than half of all music sold in South Korea was sold directly to mobile phones and all major handset makers in the world had released MP3 playing phones. By 2006, more MP3-playing mobile phones were sold than all stand-alone MP3 players. Apple cited the rapid rise of the media player in phones as a primary reason for
+
+
+
+
+PlayStation Portable
+
+developing the iPhone. In 2007, the number of phones that could play media was over 1 billion. Some companies created music-centric sub-brands for mobile phones, for example the former Sony Ericsson's Walkman range or Nokia's XpressMusic range, which have extra emphasis on music playback and typically have features such as dedicated music buttons.[68]
+Mobile phones with PMP functionalities such as video playback also started appearing in the 2000s. Other non-phone products such as the PlayStation Portable and PlayStation Vita have also been considered to be PMPs.
+
+
+
+An "MP4 player" from Newsmy, a major PMP manufacturer in China
+
+Decline and contemporary
+PMPs have declined in popularity after the late 2000s due to increasing worldwide adoption of smartphones that include PMP functionalities. Sales peaked in 2007 and market revenue peaked in 2008 at US$21.6 billion. Mobile phones that could play music
+outsold DAPs by almost three to one in 2007.[12]
+
+In the EU, demand for MP3 players peaked in 2007 with 43.5 million devices sold totalling 3.8 billion euros. Both sales and revenue experienced a double-digit shrinkage for the first time in 2010.[69] In India, sales of PMPs decreased for the first time in 2012, a few years after developed economies. The market was led by Apple with a share of about 50%, while Sony and Philips were
+the other major brands.[70]
+
+Meanwhile, sales of Apple's best selling product, the iPod, were eclipsed by the iPhone in 2011.[71]
+
+DAPs continue to be made in lower volumes by manufacturers such as SanDisk, Sony, iRiver, Philips, Cowon, and a range of Chinese manufacturers namely Aigo, Newsmy, PYLE and ONDA.[72] They often have specific selling points in the smartphone era, such as portability (for small sized players) or for high quality sound suited for audiophiles.
+
+
+Common audio formats
+
+
+
+There are three categories of audio formats:
+
+
+
+
+A recent player, Sony Walkman NW- A35, focusing on audiophilic capabilities such as the ability to play Direct Stream Digital (DSD)
+
+
+
+
+
+A modern PMP made by FiiO
+
+
+
+Uncompressed PCM audio: Most players can also play uncompressed PCM in a container such as WAV or AIFF.
+Lossless audio formats: These formats maintain the Hi-fi quality of every song or disc. These are the ones used by CDs, many people recommend the use of lossless audio formats to preserve the CD quality in audio files on a desktop. Lossless formats include Apple Lossless and FLAC.
+Lossy compression formats: Most audio formats use lossy compression, to produce as small as possible a file compatible with the desired sound quality. There is a trade-off between size and sound quality of lossily compressed files; most formats allow different combinations-e.g., MP3 files may use between 32 (worst), 128 (reasonable) and 320 (best) kilobits per second.[73]
+There are also royalty-free lossy formats like Vorbis for general music and Speex and Opus used for voice recordings. When "ripping" music from CDs, many people recommend the use of lossless audio formats to preserve the CD quality in audio files on a desktop, and to transcode the music to lossy compression
+formats when they are copied to a portable player.[74] The formats supported by a particular audio player
+depends upon its firmware; sometimes a firmware update adds more formats. MP3 and AAC are dominant formats,[74] and are almost universally supported.[75]
+
+Video and chipsets
+Chipsets and file formats that are particular to some PMPs:
+
+Anyka is a chip that's used by many MP4 Players. It supports the same formats as Rockchip.
+Fuzhou Rockchip Electronics's video processing Rockchip has been incorporated into many MP4 players, supporting AVI with no B frames in MPEG-4 Part 2 (not Part 14), while MP2 audio compression is used.[76] The clip must be padded out, if necessary, to fit the resolution of the display. Any slight deviation from the supported format results in a Format Not Supported error message.
+Some players, like the Onda VX979+, have started to use chipsets from Ingenic, which are capable of supporting RealNetworks's video formats.[77] Also, players with SigmaTel-based technology are compatible with SMV (SigmaTel Video).
+
+
+AMV
+The image compression algorithm of this format[78] is inefficient by modern standards (about 4 pixels per byte, compared with over 10 pixels per byte for MPEG-2). There are a fixed range of resolutions (96 × 96 to 208 × 176 pixels) and framerates (12 or 16 frames) available. However it can be used with limited hardware requirements. A 30-minute video would have a filesize of approximately 100 MB at a 160 × 120 resolution.[79]
+
+MTV
+The MTV video format (no relation to the cable network) consists of a 512-byte file header that operates by displaying a series of raw image frames during MP3 playback.[79] During this process, audio frames
+are passed to the chipset's decoder, while the memory pointer of the display's hardware is adjusted to the next image within the video stream. This method does not require additional hardware for decoding, though it will lead to a higher amount of memory consumption. For that reason, the storage capacity of an MP4 player that uses MTV files is effectively less than that of a player that decompresses files on the fly.
+
+
+Digital signal processing
+
+A growing number of portable media players are including audio processing chips that allow digital effects like 3D audio effects, dynamic range compression and equalisation of the frequency response.[80][81][82][83] Some devices adjust loudness based on Fletcher-Munson curves. Some media
+players are used with Noise-cancelling headphones that use Active noise reduction to remove background noise.
+
+De-noise mode
+De-noise mode is an alternative to Active noise reduction. It provides for relatively noise-free listening to audio in a noisy environment. In this mode, audio intelligibility is improved due to selective gain reduction of the ambient noise. This method splits external signals into frequency components by "filterbank" (according to the peculiarities of human perception of specific frequencies) and processing them using adaptive audio compressors. Operation thresholds in adaptive audio compressors (in contrast to "ordinary" compressors) are regulated depending on ambient noise levels for each specific bandwidth.
+
+Reshaping of the processed signal from adaptive compressor outputs is realised in a synthesis filterbank. This method improves the intelligibility of speech signals and music. The best effect is obtained while listening to audio in the environment with constant noise (in trains, automobiles, planes), or in environments with fluctuating noise level (e.g. in a metro). Improvement of signal intelligibility in condition of ambient noise allows users to hear audio well and preserve hearing ability, in contrast to regular volume amplification.
+
+Natural mode
+Natural mode is characterised by subjective effect of balance of different frequency sounds, regardless of level of distortion, appearing in the reproduction device. It is also regardless of personal user's ability to perceive specific sound frequencies (excluding obvious hearing loss). The natural effect is obtained due to special sound processing algorithm (i.e. "formula of subjective equalisation of frequency-response function"). Its principle is to assess frequency response function (FRF) of mediaplayer or any other sound
+reproduction device, in accordance with audibility threshold in silence (subjective for each person),[84]
+and to apply gain modifying factor. The factor is determined with the help of integrated function to test audibility threshold: the program generates tone signals (with divergent oscillations - from minimum volume 30-45 Hz to maximum volume appr. 16 kHz),[85] and user assess their subjective audibility. The principle is similar to in situ audiometry, used in medicine to prescribe a hearing aid. However, the results of test may be used to a limited extent as far as FRF of sound devices depends on reproduction volume. It means correction coefficient should be determined several times - for various signal strengths, which is not a particular problem from a practical standpoint.
+
+Sound around mode
+Sound around mode allows for real time overlapping of music and the sounds surrounding the listener in their environment, which are captured by a microphone and mixed into the audio signal. As a result, the user may hear playing music and external sounds of the environment at the same time. This can increase user safety (especially in big cities and busy streets), as a user can hear a mugger following them or hear an oncoming car.
+
+
+Controversy
+
+Although these issues are not usually controversial within digital audio players, they are matters of continuing controversy and litigation, including but not limited to content distribution and protection, and digital rights management (DRM).
+
+Lawsuit with RIAA
+The Recording Industry Association of America (RIAA) filed a lawsuit in late 1998 against Diamond Multimedia for its Rio players,[47][86] alleging that the device encouraged copying music illegally. But Diamond won a legal victory on the shoulders of the Sony Corp. v. Universal City Studios case and DAPs were legally ruled as electronic devices.[87]
+
+Risk of hearing damage
+According to the Scientific Committee on Emerging and Newly Identified Health Risks, the risk of hearing damage from digital audio players depends on both sound level and listening time. The listening habits of most users are unlikely to cause hearing loss, but some people are putting their hearing at risk, because they set the volume control very high or listen to music at high levels for many hours per day. Such listening habits may result in temporary or permanent hearing loss, tinnitus, and difficulties understanding speech in noisy environments. The World Health Organization warns that increasing use of headphones and earphones puts 1.1 billion teenagers and young adults at risk of hearing loss due to
+unsafe use of personal audio devices.[88] Many smartphones and personal media players are sold with
+earphones that do a poor job of blocking ambient noise, leading some users to turn up the volume to the maximum level to drown out street noise.[89] People listening to their media players on crowded commutes sometimes play music at high volumes feel a sense of separation, freedom and escape from
+their surroundings.[90][91]
+
+The World Health Organization recommends that "the highest permissible level of noise exposure in the workplace is 85 dB up to a maximum of eight hours per day" and time in "nightclubs, bars and sporting events" should be limited because they can expose patrons to noise levels of 100 dB. The report states
+
+Teenagers and young people can better protect their hearing by keeping the volume down on personal audio devices, wearing earplugs when visiting noisy venues, and using carefully fitted, and, if possible, noise-cancelling earphones/headphones. They can also limit the time spent engaged in noisy activities by taking short listening breaks and restricting the daily use of personal audio devices to less than one hour. With the help of smartphone apps, they can monitor safe listening levels.
+
+The report also recommends that governments raise awareness of hearing loss, and to recommend people visit a hearing specialist if they experience symptoms of hearing loss, which include pain, ringing or buzzing in the ears.[92]
+A study by the National Institute for Occupational Safety & Health found that employees at bars, nightclubs or other music venues were exposed to noise levels above the internationally recommended limits of 82-85 dBA per eight hours. This growing phenomena has led to the coining of the term music- induced hearing loss, which includes hearing loss as a result of overexposure to music on personal media
+players.[93]
+
+In 2009 the European Union drafted a law to force manufacturers to cap the maximum volume output on players to 80 dB.[94]
+
+
+FCC issues
+Some MP3 players have electromagnet transmitters, as well as receivers. Many MP3 players have built-in FM radios, but personal FM transmitters are not usually built-in due to liability of transmitter feedback from simultaneous transmission and reception of FM. Also, certain features like Wi-Fi and Bluetooth can
+interfere with professional-grade communications systems such as aircraft at airports.[95]
+
+See also
+
+Personal stereo Portable CD player Portable DVD player Smartphone
+Tablet computer Transistor radio
+
+Notes
+
+
+a. Empeg Car was renamed Rio Car after it was acquired by SONICblue and added to its Rio line of MP3 products
+
+References
+
+1. "What is DLNA" (https://web.archive.org/web/20130910184728/http://www.dlna.org/dlna-for- industry/digital-living/how-it-works/dlna-device-classes/mobile-digital-media-player). DLNA. Archived from the original (http://www.dlna.org/dlna-for-industry/digital-living/how-it-works/dl na-device-classes/mobile-digital-media-player) on 10 September 2013.
+2. What are the differences in DLNA device classes? (http://us.en.kb.sony.com/app/answers/d etail/a_id/35234) Archived (https://web.archive.org/web/20160119082643/https://us.en.kb.so ny.com/app/answers/detail/a_id/35234) 19 January 2016 at the Wayback Machine What are the differences in DLNA device classes?
+3. "All You Need To Know About Media Players" (https://www.lenovo.com/gb/en/glossary/medi a-players). Lenovo.
+4. Acepublisher (29 September 2010). "The Global Portable Media Player Industry" (https://ww w.oboolo.com/marketing/services-marketing/term-papers/the-global-portable-media-player-i ndustry-608927.html). Publications Oboolo.
+5. "Words to Avoid (or Use with Care) Because They Are Loaded or Confusing" (https://web.ar chive.org/web/20130603145757/https://gnu.org/philosophy/words-to-avoid.html#MP3Playe
+r). GNU Operating System. Free Software Foundation, Inc. Archived from the original (http s://www.gnu.org/philosophy/words-to-avoid.html#MP3Player) on 3 June 2013. Retrieved
+8 July 2013. "Most support the patented MP3 codec, but not all. To call such players 'MP3 players' is not only confusing,... We suggest the terms 'digital audio player,' or simply 'audio player' if context permits."
+6. The Difference Between an iPod and a MP3 Player (http://www.webopedia.com/DidYouKno w/Hardware_Software/2008/iPod_mp3Player.asp) Archived (https://web.archive.org/web/20 111008215444/http://www.webopedia.com/DidYouKnow/Hardware_Software/2008/iPod_mp 3Player.asp) 8 October 2011 at the Wayback Machine. Webopedia.com. Retrieved 16 August 2013.
+7. "portable media player" (https://encyclopedia2.thefreedictionary.com/portable+media+playe r). TheFreeDictionary.com. Retrieved 5 April 2025.
+8. "Windows Media Center support makes PSP an even better PMP" (https://www.engadget.co m/2006-10-18-windows-media-center-support-makes-psp-an-even-better-pmp.html). Engadget. 18 October 2006. Retrieved 5 April 2025.
+
+9. "Mp3???????????" (https://s.japanese.joins.com/JArticle/26258?sectcode=30 0&servcode=300).
+10. Dorozhin, Alexey (19 December 2006). "??????? Mpio" (https://mobile-review.com/mp3/artic les/mpio-history.shtml) [History of Mpio] (in Russian). Retrieved 19 April 2022.
+11. "Portable MP3 Player Ownership Reaches New High | Ipsos" (https://www.ipsos.com/en-us/ portable-mp3-player-ownership-reaches-new-high). Retrieved 21 December 2023.
+12. Playing with Labour Rights: Music player and game console manufacturing in China (https:// www.germanwatch.org/sites/default/files/publication/2252.pdf) FinnWatch, SACOM and SOMO
+13. "Video to overtake audio in mobile media players by the end of 2008" (https://www.tvtechnol ogy.com/news/video-to-overtake-audio-in-mobile-media-players-by-the-end-of-2008). 31
+August 2007.
+14. "Smartphones Heavily Decrease Sales of iPod, MP3 Players" (http://www.tomshardware.co m/news/Smartphones-iPod-MP3-Players-Sales,20062.html). Tom's Hardware. 30 December 2012.
+15. Yu, Emily. "PMP needs to merge with cellphone, says Smartwork exec" (https://web.archive. org/web/20080423223723/http://www.eetasia.com/ART_8800411138_499495_NT_d0c02d8 d.HTM). EE Times Asia. Archived from the original (http://www.eetasia.com/ART_88004111 38_499495_NT_d0c02d8d.HTM) on 23 April 2008. Retrieved 3 October 2007.
+16. "Portable media players give North Koreans an illicit window on the world" (https://www.theg uardian.com/world/2015/mar/28/north-korea-internet-notel). The Guardian. 28 March 2015. Archived (https://web.archive.org/web/20150406104758/http://www.theguardian.com/world/ 2015/mar/28/north-korea-internet-notel) from the original on 6 April 2015. Retrieved 9 April 2015.
+17. "Archos 5 500GB Internet Tablet with Android" (https://web.archive.org/web/2011071108033 7/http://www.gazaro.com/archos-5-500-gb-internet-tablet-with-android-501333-2). gazaro. Archived from the original (http://www.gazaro.com/archos-5-500-gb-internet-tablet-with-andr oid-501333-2) on 11 July 2011. Retrieved 9 June 2010.
+18. "The Wireless Music Player: Do-it-yourself remotely managed music player" (https://web.arc hive.org/web/20060218045901/http://devices.natetrue.com/musicap/). natetrue.com. Archived from the original (http://devices.natetrue.com/musicap/) on 18 February 2006.
+19. "Codec Performance Comparison" (http://www.rockbox.org/wiki/CodecPerformanceCompari son). rockbox.org. Archived (https://web.archive.org/web/20120528090734/http://www.rockb ox.org/wiki/CodecPerformanceComparison) from the original on 28 May 2012. Retrieved
+10 November 2012.
+20. "MP3 streaming over Bluetooth" (http://www.clarinox.com/docs/whitepapers/Whitepaper_05
+_MP3.pdf) (PDF). clarinox. Archived (https://web.archive.org/web/20110219200056/http://w ww.clarinox.com/docs/whitepapers/Whitepaper_05_MP3.pdf) (PDF) from the original on 19 February 2011. Retrieved 4 August 2010.
+21. Bell, Donald (25 October 2004). "Sony Network Walkman NW-HD1 (20GB) Review" (http://r eviews.cnet.com/mp3-players/sony-network-walkman-nw/4505-6490_7-30959614.html). CNET. Archived (https://web.archive.org/web/20071224134933/http://reviews.cnet.com/mp3
+-players/sony-network-walkman-nw/4505-6490_7-30959614.html) from the original on 24 December 2007. Retrieved 12 December 2007.
+22. Transcend MP870 Handbuch (https://www.manualslib.de/manual/7968/Transcend-Mp870.ht ml) - Pages: 50, 55
+23. Southerton, Dale (2011). Encyclopedia of Consumer Culture (https://books.google.com/boo ks?id=l5sv5aqVN3MC&pg=PA1515). SAGE Publishing. p. 515. ISBN 9780872896017.
+24. "Kane Kramer - The Inventor of the Digital Audio Player" (http://www.kanekramer.com/#!Abo ut). www.kanekramer.com. Archived (https://web.archive.org/web/20170527132741/http://w ww.kanekramer.com/#!About) from the original on 27 May 2017.
+
+25. "IXI Systems" (https://web.archive.org/web/20161229101656/http://www.kanekramer.com/d ownloads/IXI-Report.pdf) (PDF). Archived from the original (http://kanekramer.com/downloa ds/IXI-Report.pdf) (PDF) on 29 December 2016. Retrieved 29 December 2016.
+26. US 4667088 (https://worldwide.espacenet.com/textdoc?DB=EPODOC&IDX=US4667088), Kramer, Kane N. & Campbell, James S., "Portable data processing and storage system", issued 15 April 1987
+27. Sorrel, Charlie. "Briton Invented iPod, DRM and On-Line Music in 1979" (https://www.wired. com/2008/09/briton-invented/). Wired. Archived (https://web.archive.org/web/201703271757 56/https://www.wired.com/2008/09/briton-invented/) from the original on 27 March 2017.
+28. British Man Says He Invented iPod in 1979 (https://www.foxnews.com/story/british-man-say s-he-invented-ipod-in-1979), Fox News Channel, 9 September 2008
+29. "Apple admits it didn't invent the iPod" (https://www.cnet.com/news/apple-admits-it-didnt-inv ent-the-ipod/). cnet.com. 7 September 2008. Archived (https://web.archive.org/web/2016122 9101323/https://www.cnet.com/news/apple-admits-it-didnt-invent-the-ipod/) from the original on 29 December 2016.
+30. "Teknik vi minns - 14 prylar som var före sin tid" (https://m3.idg.se/2.1022/1.506083/tekniker
+-prylar-som-var-fore-sin-tid/sida/2/prylar-vi-minns-8-14). idg.se (in Swedish). Archived (http s://web.archive.org/web/20180413185756/https://m3.idg.se/2.1022/1.506083/tekniker-prylar
+-som-var-fore-sin-tid/sida/2/prylar-vi-minns-8-14) from the original on 13 April 2018. Retrieved 8 May 2018.
+31. Ha, Peter (25 October 2010). "All-TIME 100 Gadgets - TIME" (https://content.time.com/time/ specials/packages/article/0,28804,2023689_2023681_2023609,00.html). TIME. Archived (ht tps://web.archive.org/web/20171020164221/http://content.time.com/time/specials/packages/ article/0,28804,2023689_2023681_2023609,00.html) from the original on 20 October 2017. Retrieved 8 May 2018 - via content.time.com.
+32. J.D.Johnston, D. Sinha, S. Dorward, and S. R. Quackenbush, AT&T Perceptual Audio Coding (PAC), pp. 73-82, in Collected Papers on Digital Audio Bit-Rate Reduction, N. Gilchrist and C. Grewin, eds, Audio Engineering Society Publications, 1996
+33. J.D.Johnston, J. Herre, M. Davis, and U.Gbur, MPEG-2 NBC Audio - Stereo and Multichannel Coding Methods, Proceedings of the 101st Convention, 1996 November, Los Angeles
+34. Onufryk, Peter; Snyder, Jim (1997). Consumer Devices for Networked Audio (https://drive.g oogle.com/file/d/0B6N5T1Dw_gTQcGt3VWh3SXF2Yjg/view?pli=1). Proceedings of the IEEE International Symposium on Industrial Electronics. Vol. 1. pp. SS27 - SS32.
+35. Early Digital Music Player - AT&T FashPAC (https://www.youtube.com/watch?v=dXRZX6vO ctM). CNN Business Week 7 March 1997. Archived (https://web.archive.org/web/201805102 20055/https://www.youtube.com/watch?v=dXRZX6vOctM) from the original on 10 May 2018.
+36. "Audible Player Will Mark the First Time Consumers Can Access RealAudio Programming Away from the PC" (https://web.archive.org/web/19980118092012/http://www.audible.com/a udible/9_15_97.html). Archived from the original (http://www.audible.com/audible/9_15_97.h tml) on 18 January 1998. Retrieved 20 February 2014., Press Release from Audible Inc., archived by archive.org 18 January 1998
+37. "The Audible Player for sale" (https://web.archive.org/web/19980118091417/http://www.audi ble.com/audible/the_player.html). Archived from the original (http://www.audible.com/audibl e/the_player.html) on 18 January 1998. Retrieved 20 February 2014.
+38. ISO (6 November 1992). "MPEG Press Release, London, 6 November 1992" (https://web.ar chive.org/web/20100812034709/http://mpeg.chiariglione.org/meetings/london/london_press. htm). Chiariglione. Archived from the original (http://mpeg.chiariglione.org/meetings/london/l ondon_press.htm) on 12 August 2010. Retrieved 17 July 2010.
+
+39. Guckert, John (Spring 2012). "The Use of FFT and MDCT in MP3 Audio Compression" (htt p://www.math.utah.edu/~gustafso/s2012/2270/web-projects/Guckert-audio-compression-svd
+
+-mdct-MP3.pdf) (PDF). University of Utah. Retrieved 14 July 2019.
+40. Verganti, Roberto (12 August 2009). Roberto Verganti, Design-Driven Innovation: Changing the Rules of Competition by Radically Innovating What Thing Mean. Harvard Business Press, 2009 (https://books.google.com/books?id=x30ovxn2eCcC&pg=PA75). Harvard Business Press. ISBN 9781422136577. Archived (https://web.archive.org/web/2017101801 3152/https://books.google.de/books?id=x30ovxn2eCcC&pg=PA75) from the original on 18 October 2017.
+41. "Bragging rights to the world's first MP3 player" (https://www.cnet.com/news/bragging-rights- to-the-worlds-first-mp3-player/). cnet.com. 25 January 2005. Archived (https://web.archive.or g/web/20171231010900/https://www.cnet.com/news/bragging-rights-to-the-worlds-first-mp3- player/) from the original on 31 December 2017. Retrieved 8 May 2018.
+42. Van Buskirk, Eliot. "Introducing the world's first MP3 player" (http://reviews.cnet.com/4520-6 450_7-5622055-1.html). CNET. Archived (https://web.archive.org/web/20090121150259/htt p://reviews.cnet.com/4520-6450_7-5622055-1.html) from the original on 21 January 2009.
+43. "Ten years old: the world's first MP3 player" (https://www.theregister.co.uk/2008/03/10/ft_first
+_mp3_player/). The Register. Archived (https://web.archive.org/web/20160808220936/http:// www.theregister.co.uk/2008/03/10/ft_first_mp3_player) from the original on 8 August 2016.
+44. "Ten years old: the world's first MP3 player" (https://www.theregister.co.uk/2008/03/10/ft_first
+_mp3_player/). theregister.com. 10 March 2008. Retrieved 15 May 2018.
+45. Menta, Richard. "Collecting MP3 Portables - Part 1" (http://www.antiqueradio.com/Dec04_M enta_mp3pt1.html). Antique Radio Classified. Archived (https://web.archive.org/web/200412 07005424/http://www.antiqueradio.com/Dec04_Menta_mp3pt1.html) from the original on 7 December 2004.
+46. "Diamond Multimedia Announces Rio PMP300 Portable MP3 Music Player" (https://web.arc hive.org/web/20071206091013/http://news.harmony-central.com/Newp/1998/Rio-PMP300.h tml) (Press release). Harmony Central. 14 September 1998. Archived from the original (htt p://news.harmony-central.com/Newp/1998/Rio-PMP300.html) on 6 December 2007.
+Retrieved 5 December 2007.
+47. Hart-Davis, Guy; Rhonda Holmes (2001). MP3 Complete. San Francisco: Sybex. p. 613. ISBN 0-7821-2899-8.
+48. "Bragging rights to the world's first MP3 player" (http://www.news.com/Bragging+rights+to+t he+worlds+first+MP3+player/2010-1041_3-5548180.html). CNET article on the first manufactured digital audio players.
+49. Yoshida, Junko; Margaret Quan (18 August 2000). "OEMs ready to roll on jukeboxes for Net audio" (http://www.eetimes.com/story/OEG20000818S0035). EE Times. p. 1. Archived (http s://web.archive.org/web/20080906131627/http://www.eetimes.com/story/OEG20000818S00
+35) from the original on 6 September 2008. Retrieved 5 December 2007.
+50. "Mobile-review.com ??????? ???????? Mpio" (https://mobile-review.com/mp3/articles/mpio- history.shtml). mobile-review.com.
+51. "Mobile-review.com ???????? ? MP3-??????. ????? ?????" (https://mobile-review.com/mp 3/articles/vr-mp3-3.shtml). mobile-review.com.
+52. Marriott, Michel (30 September 1999). "NEWS WATCH; New Player from Sony Will Give a Nod to MP3" (https://www.nytimes.com/1999/09/30/technology/news-watch-new-player-from
+-sony-will-give-a-nod-to-mp3.html). The New York Times.
+53. "ITunes and the Basis of Competition in the MP3 Player Market" (http://reactionwheel.net/20 18/11/itunes-and-the-basis-of-competition-in-the-mp3-player-market.html). 16 November
+2018.
+54. "Gadget Rewind 2005: Samsung YEPP YP-W3 (Limited edition)" (https://www.engadget.co m/2014-07-20-gadget-rewind-2005-samsung-yepp-yp-w3-limited-edition.html). 20 July
+2014.
+
+55. Billboard. 22 January 2000. p. 24. {{cite magazine}}: Missing or empty |title=
+(help)
+56. "ARCHOS Generation 5 Available Worldwide" (http://www.archos.com/corporate/press/pres s_releases/PR_ARCHOS_Gen_5_Availability.pdf) (PDF) (Press release). Archos. 12 September 2007. Archived (https://web.archive.org/web/20071028004929/http://www.archo s.com/corporate/press/press_releases/PR_ARCHOS_Gen_5_Availability.pdf) (PDF) from the original on 28 October 2007. Retrieved 5 December 2007.
+57. "Why did Dell discontinue its hard drive MP3 player?" (https://www.theguardian.com/technol ogy/2006/feb/09/guardianweeklytechnologysection.dell). TheGuardian.com. 9 February 2006.
+58. "MP3?MP4!?????MP3?MP4???!" (https://web.archive.org/web/2008101111363 0/http://bj.beareyes.com.cn/2/lib/200510/26/20051026011.htm). Beareyes. Archived from
+the original (http://bj.beareyes.com.cn/2/lib/200510/26/20051026011.htm) on 11 October 2008. Retrieved 11 July 2018.
+59. "Mp12 | MercadoLivre ??" (https://lista.mercadolivre.com.br/mp12).
+lista.mercadolivre.com.br.
+60. Van Buskirk, Eliot (9 January 2004). "Microsoft visualizes portable video" (https://www.cnet.c om/4520-7912_1-5116568-1.html). CNET. Archived (https://web.archive.org/web/200802250 50459/http://www.cnet.com/4520-7912_1-5116568-1.html) from the original on 25 February 2008. Retrieved 30 December 2007.
+61. "Korea Times" (https://koreatimes.co.kr/pages/article.asp?newsIdx=31245).
+62. "Mobile-review.com MP3-players - Global markets" (https://web.archive.org/web/200611251 91014/https://mobile-review.com/print.php?filename=%2Fmp3%2Farticles%2Fmp3-global-e n.shtml). mobile-review.com. Archived from the original (https://mobile-review.com/print.ph p?filename=%2Fmp3%2Farticles%2Fmp3-global-en.shtml) on 25 November 2006.
+Retrieved 26 March 2021.
+63. Sorrel, Charlie. "Walkman Outsells iPod in Japan" (https://www.wired.com/2009/09/walkman
+-outsells-ipod-in-japan/). Wired.
+64. Smith, Tony. "iPod fails to impress South Koreans" (https://www.theregister.com/2005/08/11/ apple_ipod_sk/). www.theregister.com. Retrieved 26 March 2021.
+65. "SAMSUNG ELECTRONICS UNVEILS SPH-M2100 PHONE" (http://www.telecompaper.co m/news/samsung-electronics-unveils-sphm2100-phone--182214). Telecompaper BV. August 1999. Archived (https://web.archive.org/web/20130728080403/http://www.telecompaper.co m/news/samsung-electronics-unveils-sphm2100-phone--182214) from the original on 28 July 2013. ()
+66. Luigi Lugmayr (December 2004). "First MP3 Mobile Phone already in 1999 on the market" (http://www.i4u.com/7064/first-mp3-mobile-phone-already-1999-market). I4U NEWS. Archived (https://web.archive.org/web/20130507055125/http://www.i4u.com/7064/first-mp3- mobile-phone-already-1999-market) from the original on 7 May 2013. ()
+67. "Samsung launched the World's first MP3 mobile phone - iMobile" (https://web.archive.org/ web/20130502123021/http://www.imobile.com.au/WhatsNew/default.asp?ID=whatsep0001). Archived from the original (http://www.imobile.com.au/whatsnew/default.asp?ID=whatsep00 01) on 2 May 2013.
+68. "Music to the ear" (https://www.financialexpress.com/archive/music-to-the-ear/329579/). 2 July 2008.
+69. "MP3 Players Have Played Their Last Tune, Market in Decline" (https://web.archive.org/we b/20220308164240/https://businesscomputingworld.co.uk/mp3-players-have-played-their-la st-tune-market-in-decline/). 8 April 2018. Archived from the original (https://businesscomputi ngworld.co.uk/mp3-players-have-played-their-last-tune-market-in-decline/) on 8 March 2022.
+
+70. Mukherjee, Writankar. "Portable music players' sales plunge for the first time in 2012" (http s://economictimes.indiatimes.com/tech/hardware/portable-music-players-sales-plunge-for-th e-first-time-in-2012/articleshow/18265297.cms?from=mdr). The Economic Times.
+71. "The rise and fall of the iPod" (https://www.businessinsider.com/rise-and-fall-apple-ipod-202 0-1?r=US&IR=T). Business Insider.
+72. "MP3 Player Market Trends Evaluation and Revenue Assumption to 2031 || Apple, Sony, Philips" (https://apnews.com/press-release/wired-release/technology-business-corporate-ne ws-products-and-services-portable-audio-players-019d9e891095c8b41eb7cdb8dd634e91). Associated Press. 29 January 2021.
+73. "Comparison of audio compression using ogg vorbis, mp3 CBR & VBR, flac and wma at different bit rates" (http://nigelcoldwell.co.uk/audio/). nigelcoldwell.co.uk. Archived (https://we b.archive.org/web/20110727193035/http://nigelcoldwell.co.uk/audio/) from the original on 27 July 2011.
+74. "How best to rip 1,500 music CDs? Your tech questions answered" (https://www.theguardia n.com/technology/2014/jul/13/music-lossless-rip-cds-tech-questions-answered). The Guardian Technology. 13 July 2014. Archived (https://web.archive.org/web/2016101519352 7/https://www.theguardian.com/technology/2014/jul/13/music-lossless-rip-cds-tech-question s-answered) from the original on 15 October 2016.
+75. "Péter's Digital Reference Shelf - Amazon MP3" (http://gale.cengage.com/reference/peter/2 00712/amazon.htm). Archived (https://web.archive.org/web/20080505011750/http://gale.cen gage.com/reference/peter/200712/amazon.htm) from the original on 5 May 2008. Retrieved 17 April 2008.
+76. "Leading Chinese MP4 IC Design Houses' R&D and Product Strategies Research Report # MIC1324" (https://web.archive.org/web/20080311000040/http://www.electronics.ca/reports/ multimedia/mic_mp4chips_design.html). Electronics.ca Publications. Archived from the original (http://www.electronics.ca/reports/multimedia/mic_mp4chips_design.html) on 11 March 2008.
+77. "Teclast announces the M series" (https://web.archive.org/web/20080323153358/http://www. haomp.com/page/2/). haomp. 28 November 2007. Archived from the original (http://www.ha omp.com/page/2/) on 23 March 2008. Retrieved 18 March 2008.
+78. Israelsen, Paul D. (21 September 1993). "United States Patent 5247357" (http://www.freepa tentsonline.com/5247357.html). Retrieved 7 December 2007.
+79. voroshil (15 October 2007). "AmvDocumentation" (https://code.google.com/p/amv-codec-too ls/wiki/AmvDocumentation). Google Code. Retrieved 6 April 2008.
+80. "Consumer Audio Software" (http://www.cirrus.com/en/products/software/consumer.html). Cirrus Logic. Archived (https://web.archive.org/web/20150429113945/http://www.cirrus.com/ en/products/software/consumer.html) from the original on 29 April 2015. "Virtual Stereo Surround - Multiband Compressor - Tone Control - Bass Manager - Bass Enhancer - Dynamic Volume Leveler - Multichannel Surround - Crossbar Mixer - Speaker Protection - Dolby Digital Post-processing Support"
+81. "Freescale 24-bit Symphony DSP" (http://www.freescale.com/webapp/sps/site/prod_summar y.jsp?code=DSP56362&fsrch=1&sr=4&pageNum=1). Freescale semiconductor. Archived (ht tps://web.archive.org/web/20150710080830/http://www.freescale.com/webapp/sps/site/prod
+_summary.jsp?code=DSP56362&fsrch=1&sr=4&pageNum=1) from the original on 10 July 2015. "bass management, 3D virtual surround, Lucasfilm THX5.1, soundfield processing, and advanced equalization"
+82. "Android solution" (https://web.archive.org/web/20150530210929/http://www.am3d.com/hom e-english/android/android-solution.aspx). am3d.com. Archived from the original (http://www. am3d.com/home-english/android/android-solution.aspx) on 30 May 2015.
+
+83. "Archived copy" (http://www.cirrus.com/en/pubs/whitePaper/smartphones_wp.pdf) (PDF). Archived (https://web.archive.org/web/20150923203714/http://www.cirrus.com/en/pubs/whit ePaper/smartphones_wp.pdf) (PDF) from the original on 23 September 2015. Retrieved
+25 April 2015.
+84. "Full Revision of International Standards for Equal-Loudness Level Contours (ISO 226)" (htt ps://web.archive.org/web/20060115001541/http://www.aist.go.jp/aist_e/latest_research/200 3/20031114/20031114.html). aist.go.jp. Archived from the original (http://www.aist.go.jp/aist_ e/latest_research/2003/20031114/20031114.html) on 15 January 2006.
+85. "Free hearing test on line: Equal loudness contours and audiometry" (http://newt.phys.unsw. edu.au/jw/hearing.html). unsw.edu.au.
+86. RIAA v. Diamond (9h Cir. 15 June 1999), Text (https://web.archive.org/web/2006100408123 2/http://www.ca9.uscourts.gov/ca9/newopinions.nsf/04485f8dcbd4e1ea882569520074e698/ ddc79aee7dcda44288256e5a007184a3?OpenDocument), archived from the original (http:// www.ca9.uscourts.gov/ca9/newopinions.nsf/04485f8dcbd4e1ea882569520074e698/ddc79a ee7dcda44288256e5a007184a3?OpenDocument) on 4 October 2006.
+87. Gross, Robin D. "Court Gives "Go-Ahead" to Digital Music Revolution" (https://web.archive.o rg/web/20071031072846/http://www.virtualrecordings.com/rio.htm). Virtual Recordings. Archived from the original (http://www.virtualrecordings.com/rio.htm) on 31 October 2007. Retrieved 5 December 2007.
+88. "1.1 billion people at risk of hearing loss - WHO highlights serious threat posed by exposure to recreational noise" (https://web.archive.org/web/20151024050443/http://www.who.int/med iacentre/news/releases/2015/ear-care/en/). World Health Organization. 27 February 2015. Archived from the original (https://www.who.int/mediacentre/news/releases/2015/ear-care/e n/) on 24 October 2015.
+89. "Smartphones can blast your hearing, health report warns" (http://www.cbc.ca/news/health/s martphones-can-blast-your-hearing-health-report-warns-1.2993009). Canadian Broadcasting Corporation. 6 April 2015. Archived (https://web.archive.org/web/20150411081 344/http://www.cbc.ca/news/health/smartphones-can-blast-your-hearing-health-report-warns
+-1.2993009) from the original on 11 April 2015.
+90. Bull, Michael. "No Dead Air! The IPod and the Culture of Mobile Listening." The Journal of Leisure Studies 24.4 (2004): 343-55. Print.
+91. "Personal Music Players & Hearing" (http://copublications.greenfacts.org/en/hearing-loss-pe rsonal-music-player-mp3/index.htm). GreenFacts Website. 23 September 2008. Archived (ht tp://archive.wikiwix.com/cache/20111008140251/http://copublications.greenfacts.org/en/hea ring-loss-personal-music-player-mp3/index.htm) from the original on 8 October 2011. Retrieved 26 March 2009.
+92. "More young people being diagnosed with hearing loss" (http://myfox8.com/2015/04/13/mor e-young-people-being-diagnosed-with-hearing-loss/). Fox8. 13 April 2015. Archived (https:// web.archive.org/web/20150421164839/http://myfox8.com/2015/04/13/more-young-people-b eing-diagnosed-with-hearing-loss/) from the original on 21 April 2015.
+93. "CDC - NIOSH Science Blog - These Go to Eleven" (https://blogs.cdc.gov/niosh-science-bl og/2011/01/25/music/). cdc.gov. 25 January 2011. Archived (http://archive.wikiwix.com/cach e/20160625052812/http://blogs.cdc.gov/niosh-science-blog/2011/01/25/music/) from the original on 25 June 2016.
+94. "Noise warning - DW - 09/28/2009" (https://www.dw.com/en/eu-to-impose-volume-caps-on- mp3-players/a-4736663). dw.com. Retrieved 6 April 2025.
+95. Ramanatt, Peter Reji; Natarajan, K.; Shobha, K.R. (7 February 2020). "Challenges in implementing a wireless avionics network" (https://www.emerald.com/insight/content/doi/10. 1108/AEAT-07-2019-0144/full/html). Aircraft Engineering and Aerospace Technology. 92 (3): 482-494. doi:10.1108/AEAT-07-2019-0144 (https://doi.org/10.1108%2FAEAT-07-2019-014
+4). ISSN 1748-8842 (https://search.worldcat.org/issn/1748-8842). S2CID 214199969 (http s://api.semanticscholar.org/CorpusID:214199969).
+
+External links
+
+
+Collecting MP3 Portables - Part I (http://www.antiqueradio.com/Dec04_Menta_mp3pt1.htm l), Part II (http://www.antiqueradio.com/Apr05_Menta_mp3.html) and Part III (http://www.anti queradio.com/Jul05_Menta_MP3s.html) - Richard Menta's three-part article covers the first digital audio players on the market with pictures of each player.
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Portable_media_player&oldid=1285679182"
